@@ -1,4 +1,4 @@
-1. Installing Jenkins
+1. Installing Jenkins
 First, update the default Ubuntu packages lists for upgrades with the following command:
 
 #)sudo apt-get update
@@ -84,5 +84,5 @@ Now, enable firewall by passing following command.
 
 ufw enable
 That’s all. Now on, your Jenkins server will run behind the Apache’s Reverse Proxy.
-:
-:wq!
+
+
